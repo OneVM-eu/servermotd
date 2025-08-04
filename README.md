@@ -1,0 +1,2 @@
+# servermotd
+Offline server motd
