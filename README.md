@@ -1,2 +1,4 @@
 # servermotd
 Offline server motd
+
+FULLY DEPRECATED! IT IS ALREADY IMPLEMENTED IN NEW WINGS /wings! SADLY CLOSED SOURCE AS OF NOW :c
